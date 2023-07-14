@@ -4,6 +4,7 @@
 * main - Start
 *
 * Description: This output the size of different nomenclature"
+*
 * Return: This returns 0
 */
 
