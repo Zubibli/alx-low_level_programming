@@ -4,6 +4,7 @@
 * main - Entry point
 *
 *Description: This prints out using puts
+*
 *Return: This retuns 0
 */
 
