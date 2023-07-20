@@ -20,7 +20,6 @@ void print_times_table(int n)
 		while (num1 <= n)
 		{
 			num2 = 0;
-			
 			while (num2 <= n)
 			{
 				int multiply = num1 * num2;
