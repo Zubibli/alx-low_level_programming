@@ -2,10 +2,10 @@
 #define main_h
 
 /**
- * function prototype for _putcher
+ * function prototype for _putchar
  */
 
-int _puchart(char c);
+int _putchar(char c);
 
 void print_alphabet(void);
 
