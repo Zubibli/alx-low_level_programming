@@ -32,9 +32,9 @@ void print_to_98(int num)
 	}
 	else
 	{
-		while (number>= 98)
+		while (number >= 98)
 		{
-			if (number ==98)
+			if (number == 98)
 			{
 				printf("%i", number);
 			}
