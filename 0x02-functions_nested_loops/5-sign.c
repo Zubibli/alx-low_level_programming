@@ -18,6 +18,11 @@ int print_sign(int n)
 		answer = 1;
 
 	}
+	if (n == 0)
+	{
+		_putchar('0');
+		answer = 0;
+	}
 	if (n < 0)
 	{
 		_putchar('-');
