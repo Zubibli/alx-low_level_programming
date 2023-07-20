@@ -14,10 +14,10 @@ int print_last_digit(int n)
 {
 	if (n < 0)
 	{
-		if (n == INT_MIN_)
+		if (n == INT_MIN)
 		{
 			int digit = abs((n - 1));
-			int las_digit = (digit % 10) + 1;
+			int last_digit = (digit % 10) + 1;
 
 			_putchar('0' + last_digit);
 			return (last_digit);
