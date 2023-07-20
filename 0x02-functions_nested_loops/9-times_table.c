@@ -6,6 +6,7 @@
  * Description: This function prints out a 9 times table
  * Return: returns void
  */
+
 void times_table(void)
 {
 	int num1 = 0;
