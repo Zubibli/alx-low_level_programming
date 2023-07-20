@@ -45,10 +45,10 @@ void print_times_table(int n)
 				}
 				else
 				{
-					printf("%i", multiply);	
+					printf("%i", multiply);
 				}
 				num2++;
-				}
+			}
 			printf("\n");
 			num1++;
 		}
