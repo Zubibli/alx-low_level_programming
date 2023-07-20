@@ -24,4 +24,4 @@ int print_sign(int n)
 		answer = -1;
 	}
 	return (answer);
-
+}
