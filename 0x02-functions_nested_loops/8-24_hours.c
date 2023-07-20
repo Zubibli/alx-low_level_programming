@@ -39,7 +39,7 @@ void jack_bauer(void)
 			{
 				printf("%i", seconds);
 			}
-			pritf("\n");
+			printf("\n");
 			seconds++;
 		}
 		hours++;
