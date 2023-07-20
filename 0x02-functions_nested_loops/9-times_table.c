@@ -18,6 +18,7 @@ void times_table(void)
 		while (num2 <= 9)
 		{
 			int multiply = num1 * num2;
+
 			if (num2 > 0)
 
 			{
