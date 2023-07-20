@@ -21,7 +21,7 @@ void times_table(void)
 			if (num2 > 0)
 			{
 				
-				if (multipy < 10)
+				if (multiply < 10)
 				{
 					printf(", %i", multiply);
 				}
