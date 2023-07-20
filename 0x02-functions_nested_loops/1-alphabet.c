@@ -7,7 +7,7 @@
  * Return: this returns void
  */
 
-void pint_alphabet(void)
+void print_alphabet(void)
 {
 	char letter = 'a';
 
