@@ -20,7 +20,6 @@ void times_table(void)
 			
 			if (num2 > 0)
 			{
-				
 				if (multiply < 10)
 				{
 					printf(", %i", multiply);
