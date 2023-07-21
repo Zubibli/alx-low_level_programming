@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * _iupper - a function that checks uppercase
+ * _isupper - a function that checks uppercase
  * @c: character to check
  * Return: 1 success
  */
