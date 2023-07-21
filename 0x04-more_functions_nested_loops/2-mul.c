@@ -8,6 +8,7 @@
  * @b: parameter
  * Description: This function takes a parameter @a
  * and @b then multiply
+ * Return: 0
  */
 
 int mul(int a, int b)
