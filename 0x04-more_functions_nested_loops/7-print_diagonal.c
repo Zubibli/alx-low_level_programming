@@ -4,7 +4,7 @@
  * print_diagonal - takes a parameter
  * @n: parameter
  * Description: This function takes a parameter @n
- * and print \\ according to the number @n is 
+ * and print \\ according to the number @n
  * Return: void
  */
 
