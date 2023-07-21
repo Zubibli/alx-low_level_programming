@@ -10,12 +10,9 @@
 
 void print_numbers(void)
 {
-	int number = 0;
-
-	while (number <= 9)
-	{
-		_putchar('0' + number);
-		number++;
-	}
+	int i;
+	
+	for (i = 48; i <= 57; i++)
+		_putchar(i);
 	_putchar('\n');
 }
