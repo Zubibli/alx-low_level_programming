@@ -23,7 +23,7 @@ int main(void)
 		}
 		else if (i % 3 == 0)
 		{
-			Printf("Fizz ");
+			printf("Fizz ");
 		}
 		else if (i % 5 == 0)
 		{
