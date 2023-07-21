@@ -18,3 +18,4 @@ int _isdigit(int c)
 		result = 1;
 	}
 	return (result);
+}
