@@ -10,6 +10,7 @@
  *
  * Return: This returns 0 (success)
  */
+
 int main(void)
 {
 	int i;
@@ -18,7 +19,7 @@ int main(void)
 	{
 		if (i % 3 == 0 && i % 5 == 0)
 		{
-			printf("FizzBuss ");
+			printf("FizzBuzz ");
 		}
 		else if (i % 3 == 0)
 		{
