@@ -8,7 +8,9 @@
  * @head: pointer to the list_t list head
  * @str:the string to be added to the list_t list
  * Description: this function creates a new node containing
- * the provided string
+ * the provided string and appends it to the end of the linked
+ * list. if memory allocation for the new node or string copy fails,
+ * the funtion returns NULL.
  * Return: if the function fails - NULL
  * otherwise - the address of the new element
  */
