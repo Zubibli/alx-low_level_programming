@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 /**
- * add_node-end - adds a new node at the end of a list_t list
+ * add_node_end - adds a new node at the end of a list_t list
  * @head: pointer to the list_t list head
  * @str:the string to be added to the list_t list
  * Description: this function creates a new node containing
@@ -15,7 +15,7 @@
  * otherwise - the address of the new element
  */
 
-list_t *add_node_end(list_t **head, const char *str)
+list_t *add_node_end(list_t **head, const char *str) /*it creates a new node*/
 {
 	char *ptr;
 	int len;
