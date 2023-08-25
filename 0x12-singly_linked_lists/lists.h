@@ -1,6 +1,22 @@
 #ifndef LISTS_H
 #define LISTS_H
 
+/*
+ * file: lists.h
+ * Authour: Okereke Victor
+ * Description: header file definition for function prototypes used in 0x12-singly_linked_list
+ */
+#include <stdlib.h>
+
+/**
+ * struct list_s - singly linked list
+ * @str: string - (malloc'ed string)
+ * @len: string lenght
+ * @next: points to the next node
+ *
+ * Description: singly lined list node structure for Holberton Project
+ */
+
 /* Definition of the list_t structure */
 typedef struct list_s
 {
