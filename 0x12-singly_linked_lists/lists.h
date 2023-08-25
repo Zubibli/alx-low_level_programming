@@ -3,8 +3,9 @@
 
 /*
  * file: lists.h
- * Authour: Okereke Victor
- * Description: header file definition for function prototypes used in 0x12-singly_linked_list
+ * Author: Okereke Victor
+ * Description: header file definition for function prototypes used in
+ * 0x12-singly_linked_lists
  */
 #include <stdlib.h>
 
@@ -20,9 +21,9 @@
 /* Definition of the list_t structure */
 typedef struct list_s
 {
-    char *str;           /* Pointer to the string data */
-    unsigned int len;    /* Length of the string */
-    struct list_s *next; /* Pointer to the next node */
+char *str;           /* Pointer to the string data */
+unsigned int len;    /* Length of the string */
+struct list_s *next; /* Pointer to the next node */
 } list_t;
 
 size_t print_list(const list_t *h);
